@@ -1,9 +1,10 @@
 name: com.example.flutter_cubit_app
 description: A simple Flutter application demonstrating the Cubit pattern for state management. The app features a single screen with a text that toggles between 'Cat' and 'Dog' when clicked, along with corresponding icons.
 version: 1.0.0
+
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=3.0.0"
+  flutter: ">=2.12.0"
 
 dependencies:
   flutter:
